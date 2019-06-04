@@ -1,3 +1,4 @@
 def greeting (parrot="Squawk")
-  puts greeting
+  puts parrot
+  returns parrot
 end
