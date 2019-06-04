@@ -1,5 +1,4 @@
-def parrot
-parrot = "Squawk!"
-  puts parrot
-  return parrot
+def parrot(language="Squawk")
+  puts #{language}
+  return language
 end
