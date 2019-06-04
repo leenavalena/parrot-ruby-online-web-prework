@@ -1,4 +1,3 @@
 def greeting (parrot="Squawk")
-  puts "#{greeting}"
-  return greeting
+  puts greeting
 end
