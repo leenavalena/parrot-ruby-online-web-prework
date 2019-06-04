@@ -1,4 +1,4 @@
-def greeting (parrot="Squawk")
+def greeting(parrot="Squawk")
   puts parrot
   returns parrot
 end
